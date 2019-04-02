@@ -33,7 +33,7 @@ namespace Lab2
             //A. You execute your program after building it by pressing the Ctrl+F5 buttons.
             //B. Floating point variables store only approximations of real numbers across a greater range of values whereas an integer variable store a limited range of real numbers precisely.
             //C. “DisplayMessage” is a method from chapter 4
-            //D. Get, Set
+            //D.  Get, Set
 
             //E.  Classes are declared to create objects. Classes are created to house a method, which are used to perform the classes tasks. Objects are created in classes to actually help execute or perform the classes functions.
 
